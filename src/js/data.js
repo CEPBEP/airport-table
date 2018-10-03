@@ -111,30 +111,6 @@ export default {
       destination: `СИМФЕРОПОЛЬ`,
       id: `U6 48`,
       status: `Ожидается по расписанию`
-    },
-    {
-      time: `11:40`,
-      destination: `КАЗАНЬ`,
-      id: `S7 62`,
-      status: `Ожидается по расписанию`
-    },
-    {
-      time: `11:45`,
-      destination: `ИРКУТСК`,
-      id: `6R 566`,
-      status: `Ожидается по расписанию`
-    },
-    {
-      time: `11:50`,
-      destination: `АНТАЛЬЯ`,
-      id: `U6 3002`,
-      status: `Ожидается по расписанию`
-    },
-    {
-      time: `11:50`,
-      destination: `ЯКУТСК`,
-      id: `GH 110`,
-      status: `Ожидается по расписанию`
     }
   ],
   departures: [
@@ -209,90 +185,6 @@ export default {
       destination: `ОМСК`,
       id: `IO 202`,
       status: `Задержан`
-    },
-    {
-      time: `12:15`,
-      destination: `СТАМБУЛ`,
-      id: `PC 389`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:25`,
-      destination: `АНАПА`,
-      id: `U6 157`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:25`,
-      destination: `ФРАНКФУРТ`,
-      id: `S7 3355`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:25`,
-      destination: `БАКУ`,
-      id: `S7 3355`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:25`,
-      destination: `БУРГАС`,
-      id: `S7 923`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:30`,
-      destination: `САМАРА`,
-      id: `TP 8146`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:30`,
-      destination: `АСТРАХАНЬ`,
-      id: `EY 4341`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:40`,
-      destination: `ЕРЕВАН`,
-      id: `GH 905`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:45`,
-      destination: `ДЮССЕЛЬДОРФ`,
-      id: `S7 991`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:45`,
-      destination: `БЕРЛИН`,
-      id: `S7 895`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:50`,
-      destination: `АБУ ДАБИ`,
-      id: `EY 068`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:55`,
-      destination: `САНКТ-ПЕТЕРБУРГ`,
-      id: `S7 39`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:55`,
-      destination: `ДОХА`,
-      id: `QR 234`,
-      status: `По расписанию`
-    },
-    {
-      time: `12:55`,
-      destination: `ДЖЕРБА`,
-      id: `ZF 7711`,
-      status: `По расписанию`
     }
   ]
 };
